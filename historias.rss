@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Historias recientes</title>
+    <link>https://perezgigantealex.000webhostapp.com/</link> 
+    <description>Ultimas 2 historias</description>
+    <language>es</language>
+
+    <item>
+      <title>Cancelado el GP de Emilia-Romagna de Fórmula 1 debido a las tormentas en el norte de Italia</title>
+      <link>https://perezgigantealex.000webhostapp.com/f1italia</link>
+      <description>La Fórmula 1 tomó la decisión de cancelar las actividades del GP de Emilia Romagna, que se tenía programado para este fin de semana.</description>
+    </item>
+    <item>
+      <title>¡Escándalo en La Liga! ¡El 3D demuestra que el balón no entró!</title>
+      <link>https://perezgigantealex.000webhostapp.com/espanyol</link>
+      <description>El RCD Espanyol impugnará el partido disputado ante el Atlético de Madrid el miércoles, finalizado con empate (3-3) por lo que entiende como una "actuación negligente" del colectivo arbitral designado para la sala VAR en la concesión del segundo tanto, un ajustado 'gol fantasma' anotado por Griezmann en el minuto 44.</description>
+    </item>
+    <item>
+      <title>¿Se viene la 33 de Fernando Alonso en Mónaco?</title>
+      <link>https://perezgigantealex.000webhostapp.com/monaco</link>
+      <description>"Me han sorprendido realmente sus declaraciones, normalmente es mucho más cauto"</description>
+    </item>
+  </channel>
+</rss>
